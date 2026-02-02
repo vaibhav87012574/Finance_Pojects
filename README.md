@@ -14,6 +14,8 @@ Real-world market data analysis
 End-to-end project execution in Python
 
 📂 Project Overview
+
+
 1️⃣ Bitcoin Price Prediction Model
 
 File: Bitcoin Prediction Model.ipynb
